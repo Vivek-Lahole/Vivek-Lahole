@@ -5,8 +5,7 @@
 ## About me
 
 - ✨ Creating bugs since 2021
-- 📚 I'm currently learning Langchain <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/07/langchain3.png" width="17" />  and docker 🐳
-- 🎯 Goals 2024: Learn Ruby on Rails 🚀
+- 📚 I'm currently learning AI Agents
 - 🎲 And ... I Like to watch Anime 🎸
 
 ## I code with
